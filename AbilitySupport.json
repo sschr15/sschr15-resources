@@ -2052,7 +2052,16 @@
   ],
   "net.minecraft.entity.monster.EntityZombie": [
     "hostile",
-	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
-    "sunburn"
-  ]
+    "fly|true",
+    "witherResistance",
+    "fireImmunity",
+    "fallNegate",
+    "climb",
+    "poisonResistance"
+  ],
+	"creeperSpiderMod.EntityCreeperSpider": [
+	  "hostile",
+		"climb",
+		"poisonResistance"
+	]
 }
