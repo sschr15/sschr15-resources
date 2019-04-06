@@ -1,2 +1,2 @@
 # sschr15-resources
-This is basically just a spot for my resources that I use for... let's not finish that statement.
+This is basically just a spot for custom files I have for Minecraft...
